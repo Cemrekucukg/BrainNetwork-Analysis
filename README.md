@@ -66,6 +66,3 @@ pip install -r requirements.txt
 jupyter notebook
 Then open and run the notebook cells in order.
 
-👩‍💻 Author
-Cemre Küçükgöde
-This project was developed for academic and research purposes as part of a deep learning study on EEG-based psychiatric disorder classification.
