@@ -64,9 +64,8 @@ Further improvements can be achieved using **RNN**, **LSTM**, or **temporal CNN*
 ```bash
 pip install -r requirements.txt
 jupyter notebook
+Then open and run the notebook cells in order.
 
-
- ##👩‍💻 Author
-
+👩‍💻 Author
 Cemre Küçükgöde
 This project was developed for academic and research purposes as part of a deep learning study on EEG-based psychiatric disorder classification.
